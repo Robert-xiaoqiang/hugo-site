@@ -1,6 +1,6 @@
 ---
 # Display name
-name: WANG Xiaoqiang
+name: Xiaoqiang Wang
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate with Speciality in Computer Science and Technology
+role: Master Student in Computer Science and Technology
 
 # Organizations/Affiliations
 organizations:
@@ -23,13 +23,16 @@ bio: I knew little about Machine Learning and Computer Vision with gradient desc
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Multi-modal Analysis
 
 education:
   courses:
-  - course: BSc in Computer Science and Technology
+  - course: BEng. in Computer Science and Technology
     institution: Zhejiang University
     year: 2020
+  - course: MEng. in Computer Science and Technology
+    institution: Zhejiang University
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -64,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-WANG Xiaoqiang is an undergraduate interested in playing in Zhejiang University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-王晓强是一个孩子
+Xiaoqiang Wang is a master student interested in playing in Zhejiang University. His research interests include graph neural networks and their applications to V+L (visual language inference) task.
